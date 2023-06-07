@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html >
+<head>
+  
+   
+    <title>Document</title>
+</head>
+<body>
+    <p align="Center"><img src="logo.jpeg" alt="" height="90px" width="90px"></p>
+    <h2 ALIGN="Center">Register Form</h2>
+    <p ALIGN="Center">Please Fill The Form</p>
+    <hr>
+    <div>
+        
+        <table align="center">
+            <tr>
+                <td>First Name:</td>
+                <td><input type:"text"></td>
+            </tr>
+            <tr>
+                <td>Last Name:</td>
+                <td><input type:"text"></td>
+            </tr>
+            <tr>
+                <td>Email Address:</td>
+                <td><input type:"text"></td>
+            </tr>
+            <tr>
+                <td>Phonne Number:</td>
+                <td><input type:"Number" ></td>
+            </tr>
+            <tr>
+                <td>Date of Birth:</td>
+                <td><input type:"Dateof"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td><input type="radio" name="gender">Male</td>
+                <td><input type="radio" name="gender">Female</td>
+                
+            </tr>
+            <tr>
+                <td>Password:</td>
+                <td><input type:"Password"></td>
+            </tr>
+            <tr>
+                <td>Reset Password:</td>
+                <td><input type:"Password"></td>
+                
+            <tr>
+                <td>Confirm Password</td>
+                <td><input type="password"></td>
+            </tr>
+
+            <tr>
+                <td>Address</td>
+                <td><textarea rows="4" cols="17"></textarea></td>
+            </tr>
+
+            <tr>
+                <td>Role</td>
+                <td>
+                    <select name="role" id="">
+                        <option value="customer">Customer</option>
+                        <option value="seller">Seller</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td><p align="center"><input type="checkbox">Agree to Terms & Conditions</p></td>
+            </tr>
+
+            <tr>
+                <td colspan="2"><p align="center"><input type="submit" value="Registration"></p></td>
+            </tr>
+        </table>
+
+        <p align="center">  Have an account, <a href="login.html">Login</a></p>
+
+    </div>
+                
+         
+</body>
+</html>
