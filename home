@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <p align="right"><img src="woman icon.png" alt="" height="40px" width="40px"></p>
+    <p align="right"> asiyaakter <br><a href="login.html">Logout</a>
+    </p>
+
+    <div>
+        <table align="center">
+            <tr>
+                <td colspan="2">
+                    <h1 align="center">Home</h1>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <p align="center">
+            <b>First Name:</b>  Asiya  <br>
+            <b>Last Name:</b> Akter<br>
+            <b>Email:</b> asiyaakter@gmail.com <br>
+            <b>Phone:</b> 019087624 <br>
+  
+            <b>Date of Birth:</b> 20/12/04 <br>
+            <b>Gender:</b> Femaile <br>
+            <b>Role:</b> Customer <br>
+            <b>Address:</b> Dhaka <br>
+
+
+        </p>
+    </div>
+
+</body>
+</html>
